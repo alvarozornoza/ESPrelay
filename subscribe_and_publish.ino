@@ -17,9 +17,9 @@
 /****************************************
  * Define Constants
  ****************************************/
-#define TOKEN "_kKwFxfpLizDNY3hYNOZtosFtYABO3jqy6I4vPnJ5No" // Your TheThings TOKEN
-#define WIFINAME "thethings.iO - HQ" //Your SSID
-#define WIFIPASS "ilovethethingsioTTIO007" // Your Wifi Pass
+#define TOKEN "" // Your TheThings TOKEN
+#define WIFINAME "" //Your SSID
+#define WIFIPASS "" // Your Wifi Pass
 
 TheThings client(TOKEN);
 
